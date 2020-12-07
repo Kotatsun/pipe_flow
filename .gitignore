@@ -1,3 +1,9 @@
 *.gif
 *.txt
 *.dat
+*.11
+*.21
+*.h5
+*.zip
+
+resources/
